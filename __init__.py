@@ -1,4 +1,6 @@
-# ComfyUI Audio Duration Node Package
+# ComfyUI WB Audio Duration Node
+# Author: Your Name
+# Description: A simple node to get audio duration from audio input
 
 # 直接定义节点类，避免导入问题
 import os

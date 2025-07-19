@@ -1,0 +1,26 @@
+{
+  "name": "wb-comfyui-utils",
+  "version": "1.0.0",
+  "description": "A collection of useful ComfyUI utility nodes including audio duration, text processing, and more",
+  "author": "webuilder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webuilder/WB-ComfyUI-Utils"
+  },
+  "keywords": [
+    "comfyui",
+    "utils",
+    "audio",
+    "duration",
+    "text",
+    "processing",
+    "nodes"
+  ],
+  "license": "MIT",
+  "dependencies": [],
+  "comfyui": {
+    "nodes": [
+      "WB_AudioDuration"
+    ]
+  }
+} 
